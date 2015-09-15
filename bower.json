@@ -1,6 +1,7 @@
 {
   "name": "pingo-content-md-loader-iron-ajax-localstorage",
   "version": "0.0.1",
+  "main": "pingo-content-md-loader-iron-ajax-localstorage.html",
   "authors": [
     "Herb Stahl"
   ],
